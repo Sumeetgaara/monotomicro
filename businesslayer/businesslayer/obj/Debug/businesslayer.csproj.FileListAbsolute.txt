@@ -1,0 +1,7 @@
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\obj\Debug\businesslayer.csprojResolveAssemblyReference.cache
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\bin\Debug\businesslayer.dll
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\bin\Debug\businesslayer.pdb
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\bin\Debug\Newtonsoft.Json.dll
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\bin\Debug\Newtonsoft.Json.xml
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\obj\Debug\businesslayer.dll
+c:\users\sneha more\documents\visual studio 2015\Projects\businesslayer\businesslayer\obj\Debug\businesslayer.pdb
